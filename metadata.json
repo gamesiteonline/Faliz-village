@@ -1,0 +1,8 @@
+{
+  "name": "Faliz island",
+  "description": "3D voxel island where anyone can sculpt interactive creations using Faliz and then explore them live, together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
